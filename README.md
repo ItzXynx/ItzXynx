@@ -41,7 +41,3 @@ Projects: <a href="https://github.com/ItzXynx" target="_blank" rel="noreferrer">
   <img src="./profile/stats.svg" width="49%" alt="GitHub stats" />
   <img src="./profile/top-langs.svg" width="32%" alt="Top languages" />
 </p>
-
-<p align="center">
-  <img src="./profile/wakatime.svg" width="49%" alt="Wakatime stats" />
-</p>
