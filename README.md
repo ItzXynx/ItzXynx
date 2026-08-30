@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Lee</h1>
+<h1 align="center">Lee</h1>
 <h3 align="center">Discord API Developer & Cryptography Enthusiast</h3>
 
 <p align="center">
