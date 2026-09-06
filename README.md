@@ -1,4 +1,4 @@
-<h1 align="center">Lee</h1>
+<h1 align="center">Will</h1>
 <h3 align="center">Discord API Developer & Cryptography Enthusiast</h3>
 
 <p align="center">
@@ -19,7 +19,7 @@ Projects: <a href="https://github.com/ItzXynx" target="_blank" rel="noreferrer">
 
 <h3 align="center">Discord Activity</h3>
 <p align="center">
-  <a href="https://discord.com/users/1484802616096460810">
+  <a href="https://discord.com/users/291920595481001986">
     <img src="https://lanyard.cnrad.dev/api/1484802616096460810?theme=dark&bg=0d1117&borderRadius=10px&idleMessage=probably%20doing%20something%20cool" alt="Discord Activity" />
   </a>
 </p>
